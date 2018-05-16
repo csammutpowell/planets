@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 everything is my favourite colour.
+=======
+Cold and dry but everything is my favourite colour.
+>>>>>>> 9b7794a27e00178d6fcacbc2aa9e21c1187501c8
